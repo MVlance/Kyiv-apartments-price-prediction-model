@@ -1,0 +1,6 @@
+src/.env
+src/data/kyiv_apartments.csv
+src/data/apartment_ids.txt
+.venv/
+__pycache__/
+*.pyc
